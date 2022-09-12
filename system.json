@@ -6,7 +6,9 @@
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9.255",
   "templateVersion": 2,
-  "author": "Renan M. Souza",
+  "authors": [
+    "Renan M. Souza"
+  ],
   "esmodules": ["module/main.js"],
   "styles": [
     "css/ma20th.css"
