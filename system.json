@@ -9,8 +9,7 @@
   "author": "Renan M. Souza",
   "esmodules": ["module/main.js"],
   "styles": [
-    "css/ma20th.css", 
-    "css/magika/content-buttons.css"
+    "css/ma20th.css"
   ],
   "scripts": [],
   "packs": [],
